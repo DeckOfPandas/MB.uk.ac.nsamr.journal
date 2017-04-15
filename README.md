@@ -69,3 +69,5 @@ To NSAMR committee members: The JNSAMR website runs from a clone of this repo on
 
 ## Submitting work to JNSAMR
 JNSAMR will be launched soon. In the interim period, please email it@nsamr.ac.uk if you want to submit to JNSAMR.
+
+Hello this is spam
