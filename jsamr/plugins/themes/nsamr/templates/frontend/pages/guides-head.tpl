@@ -83,7 +83,7 @@
         <hr>
 
         <div class="row">
-            <div class="left-heading id="submissionchecklist">3. Submission Checklist</div>
+            <div class="left-heading" id="submissionchecklist">3. Submission Checklist</div>
             <div class="container">
                 <div class="row">   
                     <p>To increase the chance of your submission being accepted please ensure the following:</p>
